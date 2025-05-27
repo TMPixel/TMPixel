@@ -1,13 +1,21 @@
 <h1 align="center">Hi! I'm <a href="">Mimi</a> 👋</h1>
 
-<img align="right" alt="Coding" width="40%" src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif">
-I'm a student passionate about web development (especially front-end) and technology in general :3
 
-#### 💡 What motivates me?
-Programming allows me to provide technological solutions to almost any problem (or at least try to). 
+<p align="center"><em>Un jour à la fois, un projet à la fois.</em></p>
+
+I’m a student passionate about web development (especially front-end) and technology in general :3.
+I’m inspired by learning from others, which makes me value teamwork — especially when everyone contributes their best.
+Even when I don’t know something, I’ll always eager to learn & find a way to “figure it out”, programming allows me to provide technological solutions to almost any problem (or at least try to). 
+
+<img align="right" alt="Coding" width="40%" src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif">
+
+💡 I'm currently working on my portfolio and my final project for my degree.
 
 #### 🌱 Right now...
-Focused on developing stronger skills in React, with Docker next on my roadmap.
+I`m focused on developing stronger skills in React, with Docker next on my roadmap.
+
+#### 🎶 My hobbies are...
+Listening to music and learning languajes 
 
 _Feel free to follow me or check out my repos. I'm always exploring new things._ ✨
 
