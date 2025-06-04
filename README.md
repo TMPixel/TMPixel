@@ -71,26 +71,71 @@ _Feel free to follow me or check out my repos. I'm always exploring new things._
 
 </div>
 
-
-<!--### 📊 Featured Projects
-
---- -->
 ---
-### 📊 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TMpixel&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="330"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TMpixel&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="330"/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=TMpixel&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true" width="330"/>
-</p>
+### 🧑‍💻 Featured Projects
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Proyecto</h3>
+        <br />
+        <!-- <a target="_blank" href=""> -->
+            <img src="images/img.jpg" width="100%" alt="App"/>
+        </a>
+        <br />
+        <p align="center">
+          <br>
+  <a href="https://github.com/repo" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a> 
+  <!-- 
+  <a href="http://nftportalbyrahul.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+  -->
+      </p>
+        <p><strong>Javascript, React, Sass, & Solidity</strong> - NFT Platform :  A simple Smart contract in Solidity and a Web3 app that lets you Mint your own NFT collection.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Proyecto</h3>
+        <br />
+        <!-- <a target="_blank" href=""> -->
+            <img src="images/img.jpg" width="100%" alt="App"/>
+        </a>
+        <br />
+        <p align="center">
+          <br>
+  <a href="https://github.com/repo" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a> 
+  <!-- 
+  <a href="http://nftportalbyrahul.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+  -->
+      </p>
+        <p><strong>Technology Stack</strong> - APP :  Desc.</p>
+    </td>
+  </tr>
+</table>
 
 ---
-<details>
-<summary> <h3> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> Get in touch: </h3> </summary>
+
+<h3> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> Get in touch: </h3>
 <div align="center">
   <a href="mailto:tamiaofv@gmail.com?subject=Hello%20UserName"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="25" /></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/portfolio-%2324292e.svg?&style=for-the-badge&logo=pfsense&logoColor=white&logoSize=30" alt="Portfolio" height="25" /></a>
   <a href="https://www.linkedin.com/in/tamia-maliza-a05aa7346/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25" /></a>
 </div>
+
+---
+<details>
+<summary> 📊<h3>Stats</h3> </summary>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TMpixel&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="330"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TMpixel&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" width="330"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=TMpixel&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true" width="330"/>
+</p>
 </details>
 
 
