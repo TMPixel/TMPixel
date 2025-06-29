@@ -77,7 +77,7 @@ _Feel free to follow me or check out my repos. I'm always exploring new things._
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Proyecto</h3>
+      <h3 align="center">Proyecto: KikinSecurity</h3>
         <br />
         <!-- <a target="_blank" href=""> -->
             <img src="images/img.jpg" width="100%" alt="App"/>
@@ -85,7 +85,7 @@ _Feel free to follow me or check out my repos. I'm always exploring new things._
         <br />
         <p align="center">
           <br>
-  <a href="https://github.com/repo" target="_blank">
+  <a href="https://github.com/TMPixel/kikinsecurity" target="https://github.com/TMPixel/kikinsecurity">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a> 
   <!-- 
@@ -94,18 +94,18 @@ _Feel free to follow me or check out my repos. I'm always exploring new things._
   </a>
   -->
       </p>
-        <p><strong>Javascript, React, Sass, & Solidity</strong> - NFT Platform :  A simple Smart contract in Solidity and a Web3 app that lets you Mint your own NFT collection.</p>
+        <p><strong>Javascript, CSS...</strong> - Under construction...</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Proyecto</h3>
+      <h3 align="center">Mercury</h3>
         <br />
         <!-- <a target="_blank" href=""> -->
-            <img src="images/img.jpg" width="100%" alt="App"/>
+            <img src="images/Mercury.jpg" width="100%" alt="App"/>
         </a>
         <br />
         <p align="center">
           <br>
-  <a href="https://github.com/repo" target="_blank">
+  <a href="https://github.com/SebasTix02/Mercury" target="[_blank](https://github.com/SebasTix02/Mercury)">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a> 
   <!-- 
@@ -114,7 +114,51 @@ _Feel free to follow me or check out my repos. I'm always exploring new things._
   </a>
   -->
       </p>
-        <p><strong>Technology Stack</strong> - APP :  Desc.</p>
+        <p><strong>TypeScript, JavaScript & CSS</strong> - Mercury is a QR-based asset tracking system for institutional property (PCs, monitors, peripherals, etc.), powered by a high-performance database for seamless management.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">AhorroFuturo</h3>
+        <br />
+        <!-- <a target="_blank" href=""> -->
+            <div align="center">
+              <img src="https://github.com/ChrisitanLP/AhorroFuturo/blob/main/static/assets/img/Banners/first_banner.png?raw=true" width="75%" alt="App" />
+            </div>
+        </a>
+        <br />
+        <p align="center">
+          <br>
+  <a href="https://github.com/ChrisitanLP/AhorroFuturo" target="https://github.com/ChrisitanLP/AhorroFuturo">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a> 
+  <!-- 
+  <a href="http://nftportalbyrahul.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+  -->
+      </p>
+        <p><strong>HTML5, JavaScript, Python & CSS</strong> -  Advanced credit & investment simulation tool with high customization—adjust rates, terms, and investment splits to model outcomes. Combines a sleek, user-friendly interface with robust financial calculations for precise planning.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Facturaqua</h3>
+        <br />
+        <!-- <a target="_blank" href=""> -->
+            <img src="https://github.com/Dionisio202/Junta_Agua/blob/main/public/img/Logo3@3x.png?raw=true" width="100%" alt="App"/>
+        </a>
+        <br />
+        <p align="center">
+          <br>
+  <a href="https://github.com/Dionisio202/Junta_Agua" target="https://github.com/Dionisio202/Junta_Agua">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+  </a> 
+  <!-- 
+  <a href="http://nftportalbyrahul.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+  -->
+      </p>
+        <p><strong>PHP, JavaScript, HTML5 & CSS</strong> - This is a billing system for issuing payment invoices to the taxpayers of the drinking water board in</p>
     </td>
   </tr>
 </table>
