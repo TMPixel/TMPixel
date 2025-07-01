@@ -80,7 +80,7 @@ _Feel free to follow me or check out my repos. I'm always exploring new things._
       <h3 align="center">Proyecto: KikinSecurity</h3>
         <br />
         <!-- <a target="_blank" href=""> -->
-            <img src="images/img.jpg" width="100%" alt="App"/>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcdmwN9HxvsHfqclSbLv_F8gZIZ9-m3hBa5A&s" width="100%" alt="App"/>
         </a>
         <br />
         <p align="center">
@@ -100,7 +100,7 @@ _Feel free to follow me or check out my repos. I'm always exploring new things._
       <h3 align="center">Mercury</h3>
         <br />
         <!-- <a target="_blank" href=""> -->
-            <img src="images/Mercury.jpg" width="100%" alt="App"/>
+            <img src="https://blogimage.vantagecircle.com/content/images/2022/04/lucca-hr.png" width="100%" alt="App"/>
         </a>
         <br />
         <p align="center">
